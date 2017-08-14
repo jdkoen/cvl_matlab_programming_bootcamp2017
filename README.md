@@ -44,3 +44,4 @@ meetings. The best way to learn how to program is to spend time programming, and
 (which are not graded) will be aimed at practicing how to program.
 
 ## Contact Info
+If you have any questions, please contact joshua dot koen at utdallas dot edu
