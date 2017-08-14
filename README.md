@@ -1,6 +1,6 @@
 # Center for Vital Longevity 2017 MATLAB Programming Bootcamp
 
-# Overview
+## Overview
 Computer programming skills are becoming an essential tool to conduct, and aid reproducibility of, 
 research in psychology and neuroscience. The purpose of this 7-week bootcamp is to introduce computer 
 programming using the Matlab(R) programming environment. This bootcamp will comprise a mixture of 
