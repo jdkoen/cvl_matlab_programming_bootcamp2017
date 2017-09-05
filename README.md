@@ -1,6 +1,6 @@
 # Center for Vital Longevity 2017 MATLAB Programming Bootcamp
 
-# Overview
+## Overview
 Computer programming skills are becoming an essential tool to conduct, and aid reproducibility of, 
 research in psychology and neuroscience. The purpose of this 7-week bootcamp is to introduce computer 
 programming using the Matlab(R) programming environment. This bootcamp will comprise a mixture of 
@@ -15,17 +15,18 @@ programming languages used in our fields, such as R and Python. In addition, you
 with using GitHub to keep track of changes in your code as well as share your code with others.
 
 ## Meeting Day and Time
-Meeting will begin the week of September 21, 2017. 
-Exact day and time still TBD.
+Meetings will begin September 20, 2017
+Wednesdays 2:00 - 3:30 PM
+CVL Conference Room
 
 ## Outline
-* Week 1 - Variable Types and Data Structures/Introduction to Github
-* Week 2 - Data Structures and Introduction to Object Oriented Programming
-* Week 3 - Selection Statements
-* Week 4 - User-Defined Functions
-* Week 5 - Plotting
-* Week 6 - Statistics/Machine Learning
-* Week 7 - TBD
+* Week 1 (Sept. 20) - GitHub, Variablesand Data Structures
+* Week 2 (Sept. 27) - Selection Statements
+* Week 3 (Oct. 4) - User-Defined Functions
+* Week 4 (Oct. 11) - Data Structures and Introduction to Object Oriented Programming
+* Week 5 (Oct. 18) - Paths and Structuring Programs for Experiments
+* Week 6 (Oct. 25) - Figures
+* Week 7 (Nov. 1) - Statistics/Machine Learning
 
 ## Course Materials
 1. Laptop with Matlab 2016a or newer
@@ -44,3 +45,4 @@ meetings. The best way to learn how to program is to spend time programming, and
 (which are not graded) will be aimed at practicing how to program.
 
 ## Contact Info
+Email: joshua <dot> koen <at> utdallas <dot> edu
