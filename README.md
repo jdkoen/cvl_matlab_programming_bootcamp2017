@@ -20,7 +20,7 @@ Wednesdays 2:00 - 3:30 PM
 CVL Conference Room
 
 ## Outline
-* Week 1 (Sept. 20) - GitHub, Variablesand Data Structures
+* Week 1 (Sept. 20) - GitHub, Variables and Data Structures
 * Week 2 (Sept. 27) - Selection Statements
 * Week 3 (Oct. 4) - User-Defined Functions
 * Week 4 (Oct. 11) - Data Structures and Introduction to Object Oriented Programming
@@ -46,8 +46,6 @@ meetings. The best way to learn how to program is to spend time programming, and
 
 ## Contact Info
 Email: joshua <dot> koen <at> utdallas <dot> edu
-=======
-If you have any questions, please contact joshua dot koen at utdallas dot edu
 
 
 
